@@ -1,12 +1,8 @@
 # Tarea 4 - Caja de Herramientas
-
-## Video de Evidencia
+_Jose M. Taveras - Matrícula: 20241548_
 
 [Tarea 4 - Caja de Herramientas | Video Evidencia ](https://youtu.be/WmYZnSCBXco)
 
-## Autor
-
-_Jose M. Taveras - Matrícula: 20241548_
 
 ## Funcionalidades
 
